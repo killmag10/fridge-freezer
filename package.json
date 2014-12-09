@@ -1,6 +1,6 @@
 {
   "name": "fridge-freezer",
-  "description": "A pentaho kettle javascript library for nodeschnaps.",
+  "description": "A javascript library for nodeschnaps and pentaho kettle.",
   "version": "0.1.0",
   "private": false,
   "author": "Lars Dietrich <lars@dietrich-hosting.de>",
