@@ -10,7 +10,7 @@ The parameter object for the http client.
 * *prototype*
   * *url* String - Request url.
   * *timeout* Number - Timeout in milliseconds.
-  * *method* String - The method type: get, post, put
+  * *method* String - The method type: get, post, put, delete, head, options, trace
   * *header* Object - Key value object with http headers.
   * *body* String|Object|[Http/Client/Entity](Entity.md) - Body to send.
   * *encoding* String - Encoding to use. null = use header.
