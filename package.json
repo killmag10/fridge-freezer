@@ -1,7 +1,7 @@
 {
   "name": "fridge-freezer",
   "description": "A javascript library for nodeschnaps and pentaho kettle.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": false,
   "author": "Lars Dietrich <lars@dietrich-hosting.de>",
   "license": "LGPL-3.0",
@@ -30,7 +30,8 @@
     "rhinojs",
     "Pentaho Data-Integration",
     "Kettle",
-    "nodeschnaps"
+    "nodeschnaps",
+    "javascript"
   ],
   "bugs": {
     "url": "https://github.com/killmag10/fridge-freezer/issues"
