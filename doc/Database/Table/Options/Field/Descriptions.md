@@ -1,7 +1,6 @@
 # fridge-freezer
 
 ## Database/Table/Versioning/Options/Field/Descriptions
-The options object for the [Database/Table/Versioning](../../../Versioning.md) object.
 
 ### Properties
 
