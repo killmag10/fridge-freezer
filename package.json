@@ -13,14 +13,12 @@
     }
   ],
   "main": "./index.js",
-  "directories": {
-  },
-  "dependencies": {
-  },
+  "directories": {},
+  "dependencies": {},
   "devDependencies": {
+    "jsdoc": "^3.4.0"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git://github.com/killmag10/fridge-freezer"
