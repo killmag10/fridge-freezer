@@ -1,5 +1,10 @@
 
-0.7.3 / 2016-03-22 
+0.8.0 / 2016-03-23
+==================
+
+ * [feature][data][group] Add the Data/Group class.
+
+0.7.3 / 2016-03-22
 ==================
 
  * [bug][database][table][versioning] Fix for java.lang.Long.valueOf() error.
