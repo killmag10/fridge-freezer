@@ -8,6 +8,7 @@ The parameter object for the http client.
 * *Credentials* Http/Client/Params/Credentials
 * *Proxy* Http/Client/Params/Proxy
 * *prototype*
+  * *closeIdleConnections* Boolean - Force to close idle connections.
   * *url* String - Request url.
   * *timeout* Number - Timeout in milliseconds.
   * *method* String - The method type: get, post, put, delete, head, options, trace
