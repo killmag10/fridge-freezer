@@ -1,4 +1,9 @@
 
+0.9.n / 2016-11-23
+==================
+
+ * [bug] issue-1 - Changelog column startedAt incorrect
+
 0.8.0 / 2016-03-23
 ==================
 
