@@ -1,9 +1,11 @@
 {
     "preset": "google",
     "validateIndentation": 4,
+    "validateQuoteMarks": false,
     "jsDoc": {
         "checkAnnotations": {
             "preset": "jsdoc3"
-        }
+        },
+        "checkParamExistence": true
     }
 }
