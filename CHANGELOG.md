@@ -1,4 +1,9 @@
 
+0.9.2 / 2017-06-28
+==================
+
+  * [bug][database][table][versioning] Fix java.lang.Double != java.lang.Float error.
+
 0.9.1 / 2017-06-28
 ==================
 
