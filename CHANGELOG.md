@@ -1,4 +1,9 @@
 
+0.10.0 / 2017-06-29
+==================
+
+  * [bug][http] Fix http client instance to get a one with a corect cert store.
+
 0.9.2 / 2017-06-28
 ==================
 
