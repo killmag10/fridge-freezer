@@ -14,7 +14,9 @@
   ],
   "main": "./index.js",
   "directories": {},
-  "dependencies": {},
+  "dependencies": {
+    "es6-shim": "^0.35.3"
+  },
   "devDependencies": {
     "jsdoc": "^3.4.0"
   },
