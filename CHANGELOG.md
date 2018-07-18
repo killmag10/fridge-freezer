@@ -1,4 +1,10 @@
 
+0.11.0 / 2018-07-18
+==================
+  * fix typo
+  * [feature] Add a fixed buffer for spoon.
+  * [doc] Table Versioning doc rollback callback.
+
 0.10.0 / 2017-06-29
 ==================
 
