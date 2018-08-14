@@ -16,7 +16,7 @@
   "directories": {},
   "dependencies": {},
   "devDependencies": {
-    "jsdoc": "^3.4.0"
+    "jsdoc": "^3.5.5"
   },
   "scripts": {},
   "repository": {
