@@ -1,2 +1,3 @@
 /doc/api
 /node_modules
+/package-lock.json
