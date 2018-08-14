@@ -1,4 +1,8 @@
 
+0.12.0 / 2018-08-14
+==================
+  * [improvement] Support apache http client version 4.3
+
 0.11.0 / 2018-07-18
 ==================
   * fix typo
