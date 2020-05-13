@@ -1,4 +1,8 @@
 
+0.12.1 / 2020-05-13
+==================
+  * [bug] Fix error on empty response.
+
 0.12.0 / 2018-08-14
 ==================
   * [improvement] Support apache http client version 4.3
